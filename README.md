@@ -51,7 +51,7 @@
 | AI-Driven E-Governance Services on Cloud                | TypeScript, Cloud AI  | GovTech                          | 🔒 Private |
 | AI-based Wildfire Prevention Management                 | HTML, AI              | ClimateTech                      | 🔒 Private |
 | Combos                                                  | HTML                  | Frontend UI                      | 🔒 Private |
-| Spacedflash                                             | JavaScript            | Flashcard Learning               | 🌍 Public  |
+| Spacedflash                                             | JavaScript            | Flashcard Learning               | 🔒 Private  |
 | Hand Gesture Smart Home Appliances                      | Python, IoT + CV      | AIoT                             | 🔒 Private |
 | NeuroGraphis                                            | Python                | Neural Graph AI                  | 🔒 Private |
 | 3D Euler Path Finder                                    | Python                | Graph Theory AI                  | 🔒 Private |
@@ -59,7 +59,7 @@
 | AI Image Recognition System                             | Python                | Computer Vision                  | 🔒 Private |
 | AI Cyber Surveillance Tool                              | Python                | Cybersecurity AI                 | 🔒 Private |
 | Pandi-GPT                                               | JavaScript            | AI Chatbot                       | 🔒 Private |
-| karthik330                                              | Config                | GitHub Profile Config            | 🌍 Public  |
+| karthik                                                 | Config                | GitHub Profile Config            | 🌍 Public  |
 
 ---
 
@@ -88,16 +88,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik330&show_icons=true&theme=radical" height="180"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik330&layout=compact&theme=radical" height="180"/>  
-</p>  
-
-<p align="center">  
-  <img src="https://streak-stats.demolab.com?user=karthik330&theme=radical&hide_border=false" height="180"/>  
-</p>  
 
 ---
 
