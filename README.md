@@ -32,17 +32,34 @@
 
 ## 🚀 Featured Projects
 
-| Project                                 | Tech Stack            | Domain                    | Status     |
-| --------------------------------------- | --------------------- | ------------------------- | ---------- |
-| **AI Driver Monitoring System**         | Python, OpenCV        | Drowsiness & Road Safety  | 🔒 Private |
-| **Few-Shot Multi-Task AI Assistant**    | Python, Deep Learning | Universal AI              | 🔒 Private |
-| **Drought Early Warning (NDDI + LSTM)** | Python, ML            | ClimateTech & Disaster AI | 🔒 Private |
-| **Federated Learning for Cloud**        | Python, Federated AI  | Energy-efficient AI       | 🔒 Private |
-| **AI-Driven E-Governance Cloud**        | TypeScript, Cloud AI  | GovTech                   | 🔒 Private |
-| **Hand Gesture Smart Home**             | Python, IoT + CV      | AIoT Appliances           | 🔒 Private |
-| **Harry Potter Invisibility Cloak**     | Python, OpenCV        | Fun CV Project            | 🔒 Private |
-| **Spacedflash**                         | JavaScript            | Learning/Flashcards       | 🌍 Public  |
-| **High-Dimensional Data Clustering**    | Python, Deep AI       | Big Data + Cloud          | 🔒 Private |
+| Project                                                 | Tech Stack            | Domain                           | Status     |
+| ------------------------------------------------------- | --------------------- | -------------------------------- | ---------- |
+| AI Driver Monitoring System                             | Python, OpenCV        | Drowsiness & Road Safety         | 🔒 Private |
+| Cloths Landing Page                                     | JavaScript            | UI/Frontend                      | 🔒 Private |
+| AI Bus Attendance System                                | Python                | Smart Transport AI               | 🔒 Private |
+| AI-based Attendance Management System                   | Python                | Education AI                     | 🔒 Private |
+| Few-Shot Multi-Task Learning for Universal AI Assistant | Python, Deep Learning | General AI                       | 🔒 Private |
+| Skylight Landing Page                                   | JavaScript            | UI/Frontend                      | 🔒 Private |
+| Manish Sir Portfolio                                    | TypeScript            | Web Portfolio                    | 🔒 Private |
+| Xerironx                                                | TypeScript            | Full Stack                       | 🔒 Private |
+| Drought Early Warning (NDDI + LSTM)                     | Python, ML            | Climate AI & Disaster Prevention | 🔒 Private |
+| Advanced Library Management System v2.0                 | Full Stack            | Library Tech                     | 🔒 Private |
+| Hand Sign Language Recognition System                   | Python, CV            | Accessibility AI                 | 🔒 Private |
+| Federated Learning Cloud Resource Allocation            | Python, Federated AI  | Energy-Efficient AI              | 🔒 Private |
+| Harry Potter Invisibility Cloak                         | Python, OpenCV        | Fun CV Project                   | 🔒 Private |
+| High-Dimensional Data Clustering on Cloud               | Python, Deep AI       | Big Data + Cloud                 | 🔒 Private |
+| AI-Driven E-Governance Services on Cloud                | TypeScript, Cloud AI  | GovTech                          | 🔒 Private |
+| AI-based Wildfire Prevention Management                 | HTML, AI              | ClimateTech                      | 🔒 Private |
+| Combos                                                  | HTML                  | Frontend UI                      | 🔒 Private |
+| Spacedflash                                             | JavaScript            | Flashcard Learning               | 🌍 Public  |
+| Hand Gesture Smart Home Appliances                      | Python, IoT + CV      | AIoT                             | 🔒 Private |
+| NeuroGraphis                                            | Python                | Neural Graph AI                  | 🔒 Private |
+| 3D Euler Path Finder                                    | Python                | Graph Theory AI                  | 🔒 Private |
+| AI Gesture Hand Controller                              | Python, CV            | Gesture Interfaces               | 🔒 Private |
+| AI Image Recognition System                             | Python                | Computer Vision                  | 🔒 Private |
+| AI Cyber Surveillance Tool                              | Python                | Cybersecurity AI                 | 🔒 Private |
+| Pandi-GPT                                               | JavaScript            | AI Chatbot                       | 🔒 Private |
+| karthik330                                              | Config                | GitHub Profile Config            | 🌍 Public  |
 
 ---
 
@@ -73,9 +90,14 @@
 
 ## 📈 GitHub Stats
 
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik330\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik330\&layout=compact\&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=karthik330\&theme=radical\&hide_border=false)
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik330&show_icons=true&theme=radical" height="180"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik330&layout=compact&theme=radical" height="180"/>  
+</p>  
+
+<p align="center">  
+  <img src="https://streak-stats.demolab.com?user=karthik330&theme=radical&hide_border=false" height="180"/>  
+</p>  
 
 ---
 
